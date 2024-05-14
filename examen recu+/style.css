@@ -1,0 +1,33 @@
+body.A{
+    background-color: rgb(245, 212, 168);
+}
+h1.B{
+    color: orange;
+}
+div.C{
+    background-color: rgb(247, 161, 232);
+}
+img.D{
+    position: relative;
+    float: both ;
+}
+div.E{
+    background-color: gray;
+}
+div.F{
+    background-color: cornflowerblue;
+}
+div.G{
+    background-color: yellow;
+    color: blue;
+}
+div.H{
+    background-color: cornflowerblue;
+    color: blue;
+}
+table.borde{
+    border: 1px solid;
+}
+td.bordeo{
+    border: 1px solid;
+}
